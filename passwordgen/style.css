@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    justify-content: center;
+    text-align: center;
+}
+
+#main{
+    height: 550px;
+    width: 550px;
+    border: 1px solid black;
+    display: block;
+    margin: auto;
+    padding: auto;
+}
+.pp{
+    height: 40px;
+    width:211px;
+    border: 2px solid black;
+    display: inline-block;
+    padding: auto;
+    margin: auto;
+}
