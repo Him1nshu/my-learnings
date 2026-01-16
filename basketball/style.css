@@ -1,0 +1,59 @@
+body{
+font-family: Verdana;
+font-weight: 00;
+font-style: Bold;
+font-size: 40px;
+text-align: center;
+background-color: rgb(6, 6, 140);
+
+}
+#container{
+    color: #EEEEEE;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.scr{
+width: 155px;
+height: 120px;
+border: 2px solid #9AABD8;
+font-family: 'Cursed Timer ULiL', sans-serif;                                                
+font-weight: 400px;
+font-style: Regular;
+font-size: 90px;
+line-height: 126.67px;
+letter-spacing: 0%;
+text-align: center;
+margin:5px;
+color: #F94F6D;
+background: #080001;
+}
+
+.points{
+width: 155px;
+height: 45px;
+border-radius: 5px;
+border: none;
+text-align: center;
+margin-left: 5px;
+opacity: 1;
+padding-bottom: 25px;
+
+}
+
+button{
+width: 45;
+background: rgb(6, 6, 140);
+height: 45;
+border-radius: 5px;
+opacity: 1;
+border-width: 2px;
+font-family: 'Cursed Timer ULiL', sans-serif;
+color:#9AABD8;           
+font-weight: 400;
+font-size: 18px;
+line-height: 27.81px;
+border: 2px solid  ;
+
+}
